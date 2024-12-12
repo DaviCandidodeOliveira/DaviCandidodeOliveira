@@ -4,7 +4,7 @@
 
 - 📫 How to reach me: davicandido07@gmail.com
 
-- ⚡ Fun fact: I like to play video games 
+- ⚡ Fun fact: I like to playing  video games 
 
 <!-- GithubStats -->
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=variablebee&show_icons=true&theme=gotham)

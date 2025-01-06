@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Cyber security 
 
-- 📫 How to reach me: davicandido07@gmail.com
+- 📫 How to reach me: davicandidow07@gmail.com
 
 - ⚡ Fun fact: I like to playing  video games 
 
